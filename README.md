@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roblox-Is-Cool
 - 👀 I’m interested in ... Video Games (Especially Roblox) and Productivity software.
-- 🌱 I’m currently learning ... C#, Python, Lua (Sort of), Advanced Scratch and HTML
+- 🌱 I’m currently learning ... C#, Python, Lua (Sort of), Advanced Scratch (plus other JavaScript) and HTML
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... Email me at gi7su6zug@relay.firefox.com
 
