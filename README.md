@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Roblox-Is-Cool
-- 👀 I’m interested in ... Video Games (Especially Roblox) and Productivity software.
-- 🌱 I’m currently learning ... C#, Python, Lua (Sort of), Advanced Scratch (plus other JavaScript) and HTML
+- 👋 Hi!!
+- 👀 I’m interested in ... Tech
+- 🌱 I’m currently learning ... HTML, CSS & JS
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... Email me at gi7su6zug@relay.firefox.com
+- 📫 How to reach me ... Dont
 
 <!---
 Roblox-Is-Cool/Roblox-Is-Cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
